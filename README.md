@@ -10,6 +10,9 @@ apontar o arquivo. Para cada teste, entrega um **relatório apresentável para g
 e registra um **resumo consolidado** em uma planilha de acompanhamento (Google Sheets
 ou CSV).
 
+> 📊 **Planilha de acompanhamento (Google Sheets, acesso público de leitura):**
+> **https://docs.google.com/spreadsheets/d/16mziD9ZSZ8ywx20J4yt-Daa8dIuitWLmwHEGrog96vw/edit**
+
 ---
 
 ## 📁 O que tem neste repositório
@@ -22,10 +25,11 @@ ou CSV).
 | 📊 **Relatório — Parceiro A** | [Markdown](reports/relatorio_Parceiro_A.md) · [Word](reports/relatorio_Parceiro_A.docx) | 🟡 Escalar com cautela |
 | 📊 **Relatório — Parceiro B** | [Markdown](reports/relatorio_Parceiro_B.md) · [Word](reports/relatorio_Parceiro_B.docx) | ✅ Escalar Grupo 1 |
 | 📊 **Relatório — Parceiro C** | [Markdown](reports/relatorio_Parceiro_C.md) · [Word](reports/relatorio_Parceiro_C.docx) | ✅ Escalar Grupo 1 |
-| 🗒️ **Planilha (espelho local)** | [`output/tracking_sheet.csv`](output/tracking_sheet.csv) | 1 linha por teste |
+| 🔗 **Planilha de acompanhamento (Google Sheets)** | **[Abrir planilha ↗](https://docs.google.com/spreadsheets/d/16mziD9ZSZ8ywx20J4yt-Daa8dIuitWLmwHEGrog96vw/edit)** | Link público (leitura) — 1 linha por teste |
+| 🗒️ **Planilha (espelho local em CSV)** | [`output/tracking_sheet.csv`](output/tracking_sheet.csv) | Mesma tabela, versão local |
 
 > 💡 No GitHub, os relatórios em **`.md` abrem formatados direto no navegador** (clique e leia).
-> Os **`.docx`** são para baixar e abrir no Word.
+> Os **`.docx`** são um extra para baixar e abrir no Word.
 
 ---
 
